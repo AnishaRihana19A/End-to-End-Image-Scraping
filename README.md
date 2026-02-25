@@ -2,7 +2,7 @@
 
 The "Image Scraper" is a Flask web application that allows users to search for images on Google and download them directly to their local machines. The project leverages web scraping techniques to fetch the image URLs from Google search results and then download the images to a specified directory.
 
-![aimeos-frontend]([https://github.com/AnishaRihana19A/End-to-End-Image-Scraping/blob/main/static/css/Screenshot%202023-08-03%20214154.png](https://github.com/AnishaRihana19A/End-to-End-Image-Scraping/blob/main/End-to-End-Image-Scraping-main/static/css/Screenshot%202023-08-03%20214154.png))
+![aimeos-frontend]([https://github.com/AnishaRihana19A/End-to-End-Image-Scraping/blob/main/static/css/Screenshot%202023-08-03%20214154.png])
 
 # About
 
